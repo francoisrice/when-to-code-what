@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #When to code what
 ##A general list of guidelines and suggestions when it comes to using different frameworks, deployment infrastructures, databases, languages, and other stuff
 
@@ -23,3 +24,7 @@ MySQL
 SQLite
 Postgresql
 ElasticSearch
+=======
+# when-to-code-what
+General guidelines on tools to use when creating applcations
+>>>>>>> 30efafbe36c9cd6683e134daf770030c3aac5c9f
